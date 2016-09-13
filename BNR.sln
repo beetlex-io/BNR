@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BNR", "BNR\BNR.csproj", "{9F9EFA21-1321-45EC-B25C-E5ED590E1DB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BNR.TestConsole", "BNR.TestConsole\BNR.TestConsole.csproj", "{F003DB75-C158-433C-89EF-7B874F4339D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F9EFA21-1321-45EC-B25C-E5ED590E1DB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F9EFA21-1321-45EC-B25C-E5ED590E1DB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F9EFA21-1321-45EC-B25C-E5ED590E1DB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F9EFA21-1321-45EC-B25C-E5ED590E1DB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F003DB75-C158-433C-89EF-7B874F4339D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F003DB75-C158-433C-89EF-7B874F4339D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F003DB75-C158-433C-89EF-7B874F4339D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F003DB75-C158-433C-89EF-7B874F4339D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
